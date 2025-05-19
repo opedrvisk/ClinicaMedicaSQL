@@ -12,11 +12,11 @@ Desenvolvido utilizando C# e MySQL, o sistema consiste basicamente em um CRUD. E
 
 Para que o código funcione de maneira correta, é necessário criar um banco de dados no MySQL com essas tabelas.
 
-![image](https://github.com/user-attachments/assets/aa5aca66-9c9b-43d8-bbd1-a4687bf10883)
+![carbon (2)](https://github.com/user-attachments/assets/06eee334-0391-4ee9-b872-c6efbc6ac5a3)
 
 Alguns inserts foram feitos através do próprio SQL, para melhor visualização do funcionamento do código.
 
-![image](https://github.com/user-attachments/assets/8ad82a74-2673-4911-b334-fe27e3d8938f)
+![carbon](https://github.com/user-attachments/assets/1a7a63aa-3ac7-43a7-94ca-2201033a3f02)
 
 Agora, toda a parte do banco de dados será continuado C#, através do MySqlClient.
 
@@ -58,11 +58,11 @@ Para demonstrar, utilizaremos dois exemplos.
 
 ### Inserir um paciente e consultá-lo no sistema.
 
-![teste01](https://github.com/user-attachments/assets/2136e0ed-7d04-4240-9b87-e940c53555eb)
+![carbon (3)](https://github.com/user-attachments/assets/2312994e-b94d-4136-9514-6a709d4e168e)
 
-### Marcar uma consulta com um paciente e médico já cadastrado no sistema.
+### Marcar uma consulta com nosso paciente cadastrado e um médico já cadastrado no sistema, conferindo o ID dele antes.
 
-![teste02](https://github.com/user-attachments/assets/1b4c6e04-92ab-4169-a569-223d6879e310)
+![carbon (4)](https://github.com/user-attachments/assets/761995ab-c784-45de-b656-cdd39f5b9e09)
 
 ---
 
