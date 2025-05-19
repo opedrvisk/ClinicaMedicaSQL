@@ -1,4 +1,4 @@
-# Sistema de agendamento de consultas para uma clínica médica
+# Sistema de consultas para uma clínica médica
 
 Desenvolvido utilizando C# e MySQL, o sistema consiste basicamente em um CRUD. Este repositório é responsável pela aba "Consultas" do projeto BeaMedicine. Acesse o repositório geral da [BeaMedicine](https://github.com/opedrvisk/SiteSistemaHospital) para mais informações.
 
